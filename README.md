@@ -5,6 +5,7 @@
 
 - Node.JS
 - Go
+- Java
 - C/C++
 
 ### Top Technologies
