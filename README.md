@@ -1,16 +1,28 @@
 ### Hi there 👋
+----
 
-<!--
-**siaresgf/siaresgf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Top Languages
 
-Here are some ideas to get you started:
+- Node.JS
+- Go
+- C/C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Top Technologies
+
+- AWS
+- Docker
+- Terraform
+- Serverless
+- Linux
+- Advanced Bash Scripting
+
+### Top Best Practices
+
+- Agile
+- TDD
+
+
+![Gian Franco Github Stats](https://github-readme-stats.vercel.app/api?username=siaresgf&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siaresgf&repo=AutoSpotting)](https://github.com/anuraghazra/github-readme-stats)
+
